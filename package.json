@@ -1,5 +1,5 @@
 {
-  "name": "random-messages",
+  "name": "mensajes-demasiado-aleatorios",
   "version": "1.0.0",
   "description": "Crear mensajes aleatorios",
   "main": "src/index.js",
